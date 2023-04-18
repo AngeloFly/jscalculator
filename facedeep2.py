@@ -1,6 +1,5 @@
 # import the required modules
 import cv2
-import matplotlib.pyplot as plt
 from deepface import DeepFace
 import requests
 from io import BytesIO
